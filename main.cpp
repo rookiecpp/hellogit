@@ -5,6 +5,6 @@ using namespace std;
 int main()
 {
     cout << "Hello git!" << endl;
-    cout<<"DDD"<<endl;
+    cout<<"DD"<<endl;
     return 0;
 }
